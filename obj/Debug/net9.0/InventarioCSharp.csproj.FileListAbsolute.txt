@@ -1,0 +1,14 @@
+C:\InventarioCSharp\bin\Debug\net9.0\InventarioCSharp.exe
+C:\InventarioCSharp\bin\Debug\net9.0\InventarioCSharp.deps.json
+C:\InventarioCSharp\bin\Debug\net9.0\InventarioCSharp.runtimeconfig.json
+C:\InventarioCSharp\bin\Debug\net9.0\InventarioCSharp.dll
+C:\InventarioCSharp\bin\Debug\net9.0\InventarioCSharp.pdb
+C:\InventarioCSharp\obj\Debug\net9.0\InventarioCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\InventarioCSharp\obj\Debug\net9.0\InventarioCSharp.AssemblyInfoInputs.cache
+C:\InventarioCSharp\obj\Debug\net9.0\InventarioCSharp.AssemblyInfo.cs
+C:\InventarioCSharp\obj\Debug\net9.0\InventarioCSharp.csproj.CoreCompileInputs.cache
+C:\InventarioCSharp\obj\Debug\net9.0\InventarioCSharp.dll
+C:\InventarioCSharp\obj\Debug\net9.0\refint\InventarioCSharp.dll
+C:\InventarioCSharp\obj\Debug\net9.0\InventarioCSharp.pdb
+C:\InventarioCSharp\obj\Debug\net9.0\InventarioCSharp.genruntimeconfig.cache
+C:\InventarioCSharp\obj\Debug\net9.0\ref\InventarioCSharp.dll
